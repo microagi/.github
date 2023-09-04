@@ -2,6 +2,7 @@
 # µAGI: Micro AI, Macro Solutions
 
 Welcome to µAGI, where we believe in the power of specialized Artificial Intelligence. In a world that's rapidly advancing towards generalized AI systems, we stand out by focusing on the small, specific challenges that often go unnoticed.
+µAGI (Micro Artificial General Intelligence): A focused approach to AI, emphasizing precision in specialized domains. Bridging the gap between vast AI architectures and targeted solutions, µAGI tailors intelligence to the tasks that matter most.
 
 ## Philosophy
 
