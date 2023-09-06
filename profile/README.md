@@ -15,7 +15,7 @@ We offer a suite of tools collectively named "ATools," each designed to handle s
 
 ## Contact
 
-For more information, send an email to [contact@microagi.dev](mailto:contact@microagi.dev). For bug reports, requests and testing feedback please open a Github issue in the respective respotiroy.
+Email us at [contact@microagi.dev](mailto:contact@microagi.dev). For bug reports, requests and testing feedback please open a Github issue in the respective respotiroy.
 
 ## License
 
@@ -23,5 +23,5 @@ All our tools are open-sourced under the GPLv3 License. See [LICENSE.md](https:/
 
 ## Copyright
 
-© 2023 MicroAGI, [Vitakka Consulting](https://vitakka.co) All Rights Reserved.
+© 2023 MicroAGI, Sivan Grünberg [Vitakka Consulting](https://vitakka.co) All Rights Reserved.
 
