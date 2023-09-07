@@ -23,5 +23,5 @@ All our tools are open-sourced under the GPLv3 License. See [LICENSE.md](https:/
 
 ## Copyright
 
-© 2023 MicroAGI, Sivan Grünberg [Vitakka Consulting](https://vitakka.co) All Rights Reserved.
+© 2023 [MicroAGI](https://microagi.dev), Sivan Grünberg [Vitakka Consulting](https://vitakka.co) All Rights Reserved.
 
