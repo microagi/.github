@@ -9,7 +9,7 @@ Our philosophy is simple: "Do one thing, and do it well." We emphasize precision
 
 
 
-## Our Tools: ATools (The first project)
+## Our Tools: ATools
 
 We offer a suite of tools collectively named "ATools," each designed to handle specific tasks with unprecedented efficiency. Our first release, AGit, effortlessly translates natural language into Git commands, making it easier for developers to interact with version control systems without the hassle of learning intricate command-line syntax.
 
