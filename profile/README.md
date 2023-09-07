@@ -7,7 +7,7 @@ Welcome to µAGI, where we believe in the power of specialized Artificial Intell
 
 Our philosophy is simple: "Do one thing, and do it well." We emphasize precision, specificity, and the value of targeted solutions. We are committed to leveraging the finesse of micro-level AI to reshape how developers interact with their toolchains—one task, one solution, one revolution at a time.
 
-
+To read more of our inspiration see the [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).
 
 ## Our Tools: ATools
 
