@@ -19,7 +19,10 @@ Email us at [contact@microagi.dev](mailto:contact@microagi.dev). For bug reports
 
 ## License
 
-All our tools are open-sourced under the GPLv3 License. See [LICENSE.md](https://github.com/microagi/.github/blob/main/LICENSE) for more details.
+All our tools are open-sourced under the GPLv3 License, and free to use in non-profit context and purpose. <br>
+To use it in the workplace or for profit requires a paid license, contact us at contact@vitakka.co for details.
+
+See [LICENSE.md](https://github.com/microagi/.github/blob/main/LICENSE) for more details.
 
 ## Copyright
 
