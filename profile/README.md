@@ -25,5 +25,5 @@ See [LICENSE.md](https://github.com/microagi/.github/blob/main/LICENSE) for more
 
 ## Copyright
 
-© 2023 [MicroAGI](https://microagi.dev), Sivan Grünberg [Vitakka Consulting](https://vitakka.co) All Rights Reserved.
+© [MicroAGI](https://microagi.dev), Sivan Grünberg [Vitakka Consulting](https://vitakka.co) All Rights Reserved.
 
